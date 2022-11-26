@@ -1,4 +1,4 @@
-⚠ Note: As of December 2021, Open Projects and Chop Chop are not in development anymore. For more information, read [here](https://forum.unity.com/threads/news-and-updates.981531/#post-7703068). The information below is kept as legacy.
+⚠ Note: As of December 2022, Open Projects and Chop Chop are not in development anymore. For more information, read [here](https://forum.unity.com/threads/news-and-updates.981531/#post-7703068). The information below is kept as legacy.
 
 # Unity Open Project #1: Chop Chop
 
@@ -35,3 +35,5 @@ Just want to try the game out? Head to the [release page](https://github.com/Uni
 
 > **We are looking forward to see what you will create** ❤  
 > *- the Unity Creator Advocacy team*
+
+We are working on it!!!
